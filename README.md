@@ -2,6 +2,8 @@
 
 A deployable venue discovery and booking platform. Guests can search listings, pay for a time slot, follow booking approval, and manage cancellations. Venue owners can upload venue photos, manage requests, and view booking totals. The React frontend is served by Flask in production; PostgreSQL stores production data, with SQLite available for local development.
 
+To View:https://book-my-venue-gamma.vercel.app/
+
 ## Run locally
 
 ### Quick start (Python + Node)
